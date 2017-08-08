@@ -34,10 +34,4 @@ Discuss the task at hand first and agree on a solution.
 Writing unit tests for the code you create is a good practice. We would love to see them in your solution.
 
 ## Closed challenge tasks
-[Reduce](https://www.codewars.com/kata/use-reduce-to-calculate-the-sum-of-the-values-in-an-array) 5 min
-
-[Dubstep](https://www.codewars.com/kata/dubstep/javascript) 15 min
-
-[Arithmetic Progression](https://www.codewars.com/kata/find-the-missing-term-in-an-arithmetic-progression/javascript) 15 min
-
-[Greet developers](https://www.codewars.com/kata/coding-meetup-number-2-higher-order-functions-series-greet-developers) 30 min
+You will be given 5 katas to solve. Good luck! :)
